@@ -34,6 +34,7 @@
 - Cryptografia de senha com bcrypt
 - Banco de Dados PostgreSQL;
 - Docker
+- Docker compose
 
 <img src="./game-library-frontend/public/Screenshot from 2022-03-03 17-00-06.png" >
 
@@ -52,10 +53,11 @@
 
 - Clone o repositório
   ```sh
-    git clone git@github.com:esdrasoliveira5/game-library-backend.git
+    git clone git@github.com:esdrasoliveira5/game-library.git
+
 - Vá para a pasta da aplicação
   ```sh
-    cd game-library-backend
+    cd game-library
 
 ## Instruções para iniciar o projeto
 
