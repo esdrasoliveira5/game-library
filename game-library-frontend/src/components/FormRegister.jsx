@@ -59,7 +59,7 @@ function FormRegister() {
     email: '',
     password: '',
     passwordConfirm: '',
-    avatar: 'https://avatarfiles.alphacoders.com/183/183310.jpg',
+    avatar: 'https://avatarfiles.alphacoders.com/154/154654.png',
   });
 
   function handleInfo({ target }) {

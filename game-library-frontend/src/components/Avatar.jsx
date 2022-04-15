@@ -6,8 +6,8 @@ import styled from 'styled-components';
 
 const avatars = [
   {
-    name: 'Master-chief',
-    src: 'https://avatarfiles.alphacoders.com/183/183310.jpg',
+    name: 'Dante',
+    src: 'https://avatarfiles.alphacoders.com/154/154654.png',
   },
   {
     name: 'Link',
@@ -98,8 +98,8 @@ const AvatarBox = styled.div`
 
 function Avatar({ avatar: { registerInfo, setRegisterInfo } }) {
   const [avatar, setAvatar] = useState({
-    src: 'https://avatarfiles.alphacoders.com/183/183310.jpg',
-    alt: 'Master-chief',
+    src: 'https://avatarfiles.alphacoders.com/154/154654.png',
+    alt: 'Dante',
     open: false,
   });
 
