@@ -26,7 +26,7 @@
 
 ## Descrição
 
-**Objetivo**: Neste projeto foi desenvolvido uma aplicação completa com frontend em javascript e React.js, um backend em typescript e node.js e um banco de dados PostgreSQL.Essa aplicação serve para salvar e separar games em uma coleção.
+**Objetivo**: Neste projeto foi desenvolvido uma aplicação completa com frontend em javascript e React.js, um backend em typescript e node.js e um banco de dados PostgreSQL. Essa aplicação serve para salvar e separar games em uma coleção.
 
 - React.js
 - Arquitetura REST;
